@@ -73,7 +73,7 @@ const Footer = () => {
                         © {currentYear} IEEE Paper Publishing Support. All rights reserved.
                     </p>
                     <p className="footer-note">
-                        Designed for researchers, by research professionals.
+                        Designed for researchers, by research professionals & Experts.
                     </p>
                 </div>
             </Container>
